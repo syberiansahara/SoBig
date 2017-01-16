@@ -86,4 +86,4 @@ and lardb1.tract_to_msamd_income_pct not like '%NA%'
 and lardb1.number_of_owner_occupied_units not like '%NA%'
 ;
 
-\copy lar to '/home/gpadmin/FINAL_LAB/csv/lar27new.csv' delimiter ',' csv header
+\copy lar to '/home/gpadmin/FINAL_LAB/csv/lar27.csv' delimiter ',' csv header
